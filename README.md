@@ -6,3 +6,4 @@ You can try it out using the cloudformation template here.
 
 ![alt text](diagram.jpg?raw=true "Diagram")
 
+[I'm an inline-style link](https://www.google.com)
